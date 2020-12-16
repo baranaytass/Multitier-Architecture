@@ -1,0 +1,9 @@
+C:\Users\Baran\source\repos\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\Baran\source\repos\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\Baran\source\repos\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\Baran\source\repos\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Baran\source\repos\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Baran\source\repos\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Baran\source\repos\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Baran\source\repos\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\Baran\source\repos\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb

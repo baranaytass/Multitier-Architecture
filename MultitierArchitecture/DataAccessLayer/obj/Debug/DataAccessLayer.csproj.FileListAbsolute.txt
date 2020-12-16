@@ -1,0 +1,9 @@
+C:\Users\Baran\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Baran\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Baran\source\repos\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Baran\source\repos\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Baran\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Baran\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Baran\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Baran\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Baran\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

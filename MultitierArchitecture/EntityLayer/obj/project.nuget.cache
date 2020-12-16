@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DMDIKzUHB15hOf7UDUvh99YPZD/9It6cajp/NprpPZOvrPb0zHKqqWyvKvbTo9IEF8mSELJhpApDawV3ABPQ0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Baran\\source\\repos\\EntityLayer\\EntityLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Baran\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Baran\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
